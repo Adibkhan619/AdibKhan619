@@ -9,7 +9,7 @@
 
 I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-adibkhan101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adibkhan101/)](www.linkedin.com/in/adibkhan101)
+[![Linkedin Badge](https://img.shields.io/badge/-adibkhan101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adibkhan101/)](www.linkedin.com/in/adibkhan101/)
 [![Facebook Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.adibkhan@gmail.com)](mailto:work.adibkhan@gmail.com)
 
