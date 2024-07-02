@@ -1,8 +1,8 @@
 ## Hi there 👋
 <div>
-  <img width="300" src="https://i.postimg.cc/jj0928WZ/shayna-douglas-H8qwry-GP-h0-unsplash.jpg"/>
+  <img width="300" position="relative" src="https://i.postimg.cc/jj0928WZ/shayna-douglas-H8qwry-GP-h0-unsplash.jpg"/>
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Ibrahim+Khan+Adib!;" />
+    <img position="absolute" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Ibrahim+Khan+Adib!;" />
 </h1>
 </div>
 
