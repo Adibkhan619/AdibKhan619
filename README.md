@@ -1,6 +1,6 @@
 
 <div >
-  <img border="rounded" width="full" height="300" src="https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png"/>
+  <img style="border-radius: 15px;" width="full" height="300" src="https://quivvy.com/sites/default/files/2023-06/no%20code%20low%20code_3.jpg"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Ibrahim+Khan+Adib!;" />
 </h1>
@@ -24,7 +24,8 @@ I am a web developer with skills in JavaScript, React, MongoDB, and Tailwind CSS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 -->
-<p align="left"> 
+<div align="center">
+  <p align="left"> 
   <a href="https://https://www.w3.org/javascript/" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -35,6 +36,7 @@ I am a web developer with skills in JavaScript, React, MongoDB, and Tailwind CSS
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  </p>
+</div>
 
 
 ![GitHub commit count](https://img.shields.io/github/commit-activity/m/AdibKhan619/AdibKhan619) <!-- commit-count -->
