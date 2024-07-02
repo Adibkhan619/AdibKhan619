@@ -26,11 +26,11 @@ I am a web developer with skills in JavaScript, React, MongoDB, and Tailwind CSS
 
 ![GitHub commit count](https://img.shields.io/github/commit-activity/m/AdibKhan619/AdibKhan619) <!-- commit-count -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
 
 <!--
 **Adibkhan619/AdibKhan619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
