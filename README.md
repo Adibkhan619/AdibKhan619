@@ -14,7 +14,7 @@ I am a web developer with skills in JavaScript, React, MongoDB, and Tailwind CSS
 [![Facebook Badge](https://img.shields.io/badge/-Adibkhan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/adib.khan.619/)](https://https://www.facebook.com/adib.khan.619/)
 
 ## ⚡ Technologies
-
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -23,6 +23,18 @@ I am a web developer with skills in JavaScript, React, MongoDB, and Tailwind CSS
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+-->
+<p align="left"> 
+  <a href="https://https://www.w3.org/javascript/" target="_blank"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" height="40"/> </a> 
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/css3/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ </p>
+
 
 ![GitHub commit count](https://img.shields.io/github/commit-activity/m/AdibKhan619/AdibKhan619) <!-- commit-count -->
 
