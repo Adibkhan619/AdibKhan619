@@ -2,8 +2,8 @@
 <div>
   <img width="30" src="https://i.postimg.cc/jj0928WZ/shayna-douglas-H8qwry-GP-h0-unsplash.jpg"/>
 </div>
-<h1>
-<iframe src="https://giphy.com/embed/l4JyQqyt9S1WTiE6c" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyberwar-viceland-l4JyQqyt9S1WTiE6c">via GIPHY</a></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 <!--
 **Adibkhan619/AdibKhan619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
