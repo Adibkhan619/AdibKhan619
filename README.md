@@ -1,6 +1,6 @@
 
 <div >
-  <img style="border-radius: 15px;" width="full" height="600" src="https://i.postimg.cc/J07K9SS0/Black-and-Red-Simple-Tips-How-To-Be-A-Programmer-Youtube-Thumbnail-2.png"/>
+  <img style="border-radius: 15px;" width="full" height="400" src="https://i.postimg.cc/J07K9SS0/Black-and-Red-Simple-Tips-How-To-Be-A-Programmer-Youtube-Thumbnail-2.png"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Ibrahim+Khan+Adib!;" />
 </h1>
